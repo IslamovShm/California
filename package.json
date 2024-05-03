@@ -1,0 +1,17 @@
+{
+  "name": "california",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "node-sass": "sass -w scss/:dist/css/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  },
+  "devDependencies": {
+    "sass": "^1.75.0"
+  }
+}
