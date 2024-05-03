@@ -1,4 +1,6 @@
-AOS.init()
+AOS.init({
+    offset: 0
+})
 
 var swiper = new Swiper(".event__swiper-content", {
     slidesPerView: 3,
